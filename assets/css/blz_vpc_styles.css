@@ -1,0 +1,9 @@
+/**
+ * WooCommerce Visual Page Customiser Styles
+ */
+
+form.blz_vpc_form {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
